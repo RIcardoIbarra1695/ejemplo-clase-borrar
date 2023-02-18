@@ -1,0 +1,2 @@
+# ejemplo-clase-borrar
+prueba
